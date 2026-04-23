@@ -11,3 +11,4 @@ the character is hiding due to their knowledge of magic. The characters' experie
 of their magic powers throughout the town and wilderness that surrounds it. I 3D sculpted a model of a jack-o-lantern to demonstrate my "something
 more" and also explore my Halloween theme more. I am proud of my development of my own creation/model into my Unity game. I have never attempted
 this before, and it felt satisfying to see my creation go from an app on my IPad to an interactable object in my VR project.
+<img width="1677" height="806" alt="Screenshot 2026-04-23 134214" src="https://github.com/user-attachments/assets/e885dd6d-d3f0-4769-b5eb-19a9dab4d5cb" />
